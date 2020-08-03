@@ -380,6 +380,10 @@
     {
       "packageName": "wp-2019",
       "projectFolder": "spfx/wp-2019"
+    },
+    {
+      "packageName": "cra-app",
+      "projectFolder": "cra/cra-app"
     }
     // {
     //   /**
